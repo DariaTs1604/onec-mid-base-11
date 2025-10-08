@@ -6,4 +6,6 @@
     <value>Доработки</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <content>Catalog.ИТ_Должности</content>
+  <content>Catalog.ИТ_КонтактныеЛица</content>
 </mdclass:Subsystem>
